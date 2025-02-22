@@ -11,6 +11,18 @@ Character	Catchphrase
 
 If the given character does not match one of the characters included above, print "Sorry! I don't know <character>'s
 catchphrase!"
+
+Example Usage:
+
+character = "Pooh"
+print_catchphrase(character)
+
+character = "Piglet"
+print_catchphrase(character)
+
+Example Output:
+"Oh bother!"
+"Sorry! I don't know Piglet's catchphrase!"
 """
 
 
